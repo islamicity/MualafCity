@@ -1,0 +1,6 @@
+{
+  "name": "MualafCity - Smart Community Platform",
+  "description": "Infrastruktur cerdas terintegrasi untuk komunitas mualaf global, bimbingan tatap muka hidayah ke rumah, direktori tokoh dakwah, forum diskusi, dan analitik AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
